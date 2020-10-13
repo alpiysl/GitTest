@@ -2,6 +2,6 @@ public class hey {
 
     public static void main(String[] args) {
 
-        System.out.println("jey");
+        System.out.println("jey new");
     }
 }
